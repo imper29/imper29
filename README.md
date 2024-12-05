@@ -2,7 +2,7 @@ Hello world,
 
 I love that the more you know about computers, the less you'll trust them.<br/>
 I love that regex is running in more than zero kernel level drivers.<br/>
-I love that this expression ^.?$|^(..+?)\1+$ finds primes.<br/>
+I love that this expression ^.?$|^(..+?)\1+$ matches primes.<br/>
 I love the boundless nature of the windows api.<br/>
 I love the reiliability of modern game engines.<br/>
 I dare say, today's software is incredible!<br/>
