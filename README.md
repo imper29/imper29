@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello world,
 
-<!--
-**imper29/imper29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love that the more you know about computers, the less you'll trust them.
+I love that regex is running in more than zero kernel level drivers.
+I love that this expression ^.?$|^(..+?)\1+$ finds primes.
+I love the boundless nature of the windows api.
+I love the reiliability of modern game engines.
+I dare say, today's software is incredible!
 
-Here are some ideas to get you started:
+Jokes aside, I love making software that makes people happy.
+Sometimes applications work well and feel good to use.
+Those applications make people happy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing a videogame called Splat Zone.
