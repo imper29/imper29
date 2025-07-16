@@ -1,1 +1,1 @@
-Consider reinventing the wheel; You might understand it better.
+Consider reinventing the wheel; You might learn something.
